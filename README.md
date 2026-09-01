@@ -79,7 +79,7 @@ A few things worth calling out specifically, since they reflect real decisions m
 - Average review score is ~4.0/5; satisfaction varies by product category.
 - Freight cost has only a weak correlation with review score (tested directly via a Pearson correlation coefficient computed in SQL) — shipping cost alone doesn't appear to be a major driver of customer satisfaction.
 
-Full write-up, by topic: [`insights/key_findings.md`](insights/key_findings.md)
+Full write-up, by topic: [`insights/key_findings.md`](key_findings.md)
 
 ## Tools
 
